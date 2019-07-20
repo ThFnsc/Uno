@@ -1,0 +1,19 @@
+Para jogar:
+    Use um shell unix pra ver as cores corretamente
+Jogadores
+    Pode haver entre 2 e 6 jogadores. Podendo nenhum, alguns ou todos serem Bots
+Cartas
+    Para escolher uma carta (não é case sensitive)
+        +4
+            Digite "+4"
+        Coringa
+            Digite "Coringa"
+        Carta numérica
+            Digite "<número> <cor>"
+                ex: "6 verde"
+        Uno
+            Quando tiver duas cartas, e for jogar uma, digite o nome da carta seguido de "Uno"
+                ex: "7 azul, uno" ou
+                    "+2 vermelho uno"
+        Bloqueio
+            Digite "Bloqueio <cor>"
